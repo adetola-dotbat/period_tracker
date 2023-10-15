@@ -1,0 +1,313 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.pinimg.com/736x/29/87/1a/29871a4743d40f18d557d4c07fd86d30.jpg",
+    "name": "Schedule Regular Study Sessions",
+    "description" : "Cramming the night before an exam is actually counterproductive to your learning and your health. Good time management is the key to avoiding those late-night cram sessions. Start planning your studying at the beginning of the term. First, schedule regular study sessions dedicated to your weekly assignments. You might even add them to your calendar. Then, look ahead at your syllabus to identify exam periods or see when you have papers due, and set longer study sessions aside. By spreading out your study sessions, building in regular “appointments” with your books, and being disciplined with the schedule you’ve built, you’ll also have more time for fun. Having a healthy work-life balance reduces your stress and is better overall for your long-term learning. Good time management ensures that you have time for it all.",
+    "brand": {
+      "name": "Pyschology"
+    },
+    "price": 5.99
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1530092285049-1c42085fd395?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBmbG93ZXJ8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+    "name": "Partner Up",
+    "description" : "Studying with a friend or study group is great for multiple reasons. First, scheduling sessions with another person holds you accountable. If you have a regular study buddy or study group, you’ll be less likely to skip it. Second, studying with another person can help you better understand the material. Because everyone learns differently, a study group can provide you with the opportunity to tap into many different learning styles and perspectives. This is especially valuable when studying complex topics that might not have one answer, or that require a thoughtful approach. A discussion among a group of people helps you think more critically by hearing different perspectives. Plus, it’s more fun! To find your study partner or group, start the term by looking around at your class to see who you might already know. Compare your schedules and build in study sessions together. It might be more difficult to schedule regular study sessions with a group because of competing schedules, but finding a way to do so can be worth the work. Try to find your study partner or group early on in the term, and then schedule sessions at important times, such as a couple of weeks before an exam.",
+    "brand": {
+      "name": "Pyschology"
+    },
+    "price": 5.84
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/zRFdgnK/shampoo-id-3.png",
+    "name": "Get Your Feng Shui On",
+    "description":"Your optimal study environment will most likely depend on your personality. Think about the places and atmospheres that help you focus the best. Here are some tips for creating the best environment for you: 1. Eliminate distractions. At home, it can be easy to find reasons not to study—you have cleaning to do, you need to grab a snack, you have a phone call to return, and so on. Create a space that’s just for study, and make sure it’s calming and free of distraction—even if it’s just a small corner of your room. 2. Find your study playlist. For those who like to study with music, find the best playlists and albums that keep you on task. Consider music with instrumentals or music in your non-native language. Here are some recommendations from Pandora to help you focus. 3. Don’t combine your study spaces. Keep your study space dedicated to studying. For example, don’t study on your bed—that’s for sleeping. Don’t study in your kitchen if you can help it—that’s for eating. By separating the uses of your living spaces, you are creating different mindsets associated with the spaces you visit. 4. Mix up your study spaces. You might benefit from finding both private and public spaces to study. Outside of your own home, your campus library or computer lab are great free options. For social folks, coffee shops are an option if you’re able to purchase a drink or snack.",
+    "brand": {
+      "name": "Pyschology"
+    },
+    "price": 4.95
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/ZXjQbT6/handwash-id-1.png",
+    "name": "Tap Those Resources",
+    "description":"When you find yourself confused by course content, there are many resources you can tap into. The following resources may be helpful to you, whether you need to dive deeper into a subject or you’re seeking basic academic help:- 1. Talk to your professor. This is the first person you can and should go to for help. They want you to succeed just as much as you do. Your professor can be a great sounding board for your ideas or a guide to help you make sure you’re headed in the right direction. 2. Find a tutor. One-on-one tutoring can be helpful for long-term success or mastering complex topics. Many campuses offer academic assistance through campus life offices. Check in with your advisor or student life office to see what tutoring resources are available to you. 3. Check out the library. The library isn’t just a place to study; it’s a resource allowing you to dive deeply into the subject you’re researching. Library staff are highly trained and can provide guidance on your research as well as tips for fully utilizing the library to achieve your goals. 4. Look online. Resources on the Internet offer infinite information. Common media publications like reputable newspapers, as well as psychology-specific publications like the American Psychological Association (APA) and Psychology Today, can provide real-life context to the topic you’re researching.",
+    "brand": {
+      "name": "Pyschology"
+    },
+    "price": 8.24
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/jvLBgqB/handwash-id-2.png",
+    "name": "Extend Study Beyond Just Reading",
+    "description":"Your studying will most certainly start with reading, but by itself, it’s not enough. Even for those who retain information easily through reading, understanding course content requires you to be more active. Here are some ways you can make the reading process more active: 1. Highlight and mark up the article or book. By highlighting important passages, you can easily refer back to them later. Notes in the margins can help you remember why it stood out to you. 2. Jot your questions down as you go. After reading an entire book or chapter, it can be hard to remember the questions you had. Make sure you’re recording your thoughts and questions as you go. 3. Tap into other resources. As ideas or questions emerge from your reading, do some additional research to provide more context. Although you should try not to get too distracted, researching topics that are relevant to your materials can give you a bigger picture and more context to use in your learning process. 4. Discuss what you read with others. By discussing course content with others, you’re more apt to remember what you read. Plus, you’ll develop critical thinking skills by hearing how others interpreted the information and responding to their thoughts.",
+    "brand": {
+      "name": "Pyschology"
+    },
+    "price": 3.11
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/YZvjRhR/handwash-id-3.png",
+    "name": "Nurture Yourself",
+    "description":"Good study habits go beyond the act of studying itself—good habits encourage taking care of yourself. Here are some important ways to do that: 1. Get enough sleep. Research shows that a good night’s sleep can actually help you process and retain what you studied. 2. Make sure you’re eating and drinking enough. Being hungry or thirsty can prevent you from focusing, so plan your study sessions around meals and have some healthy snacks and water with you. 3. Take breaks. Studies show that taking breaks improves creativity and strengthens your problem-solving abilities. So make sure to stand up and stretch, go grab some water, or take a stroll—especially when you’re feeling your eyes cross from too much information. 4. Find a comfortable place to study. If your back aches from your old wooden chair, it may be time to invest in a more comfortable and ergonomic study spot. You might consider acquiring better furniture or finding a study space—such as the library—that offers comfortable arrangements. 5. Exercise frequently. Outside of your study times, exercise is a proven way to improve your memory. Build in physical activity to your weekly schedule to improve both your physical health and brain activity. Just 22 minutes a day can help! 6. Don’t forget your friends. Studying can be isolating, especially during midterms or finals. Make sure you’re still making time to be with your friends. Socializing will help decrease stress and help you focus when you return to studying later.",
+    "brand": {
+      "name": "Pyschology"
+    },
+    "price": 1.68
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/PDKTf5N/frag-id-1.png",
+    "name": "Know Your Learning Style",
+    "description":"Everyone takes in and retains information in distinctly different ways. Knowing your learning style can help you study better and help you communicate with your instructors if you’re having trouble understanding the course material. The following are the four most common learning styles: 1. Visual learners understand material when delivered visually—either through drawings or other multi-media methods. 2. Auditory learners process material orally and often respond to opportunities to discuss concepts with others. 3. Kinesthetic learners need to engage in movement or activity in their learning process and learn best by doing—either through games or experiential activities. 4. Reading/writing learners understand materials through reading and writing. Traditional learning environments work for this learning style because reading and writing are commonly how work is assessed.",
+    "brand": {
+      "name": "Pyschology"
+    },
+    "price": 16.87
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/KjKX2jQ/frag-id-2.png",
+    "name": "Diet",
+    "description": "Between exams, papers and maintaining an active social life, many college students feel they cant really find the time to keep up on their personal health and wellness until an illness catches hold and stops them in their tracks. With most colleges providing health care and endless physical activities for students, staying healthy in college is about as easy as it will ever get. Here are a few tips to help students make the most of the resources at their fingertips and to ensure they stay healthy and illness free throughout their education. 1. Learn proper portion size. To avoid eating too much of even the healthiest foods, keep track of how much you’re eating. For most people, meat servings should be about the size of a deck of cards and other servings vary by the type of food. 2. Vary your meals. When the cafeteria has your favorite foods daily it can be easy to return to those old favorites every day. Changing up your diet from day to day is an important part of good nutrition so take advantage of the variety of selections available to you. 3.Eat breakfast. Start your day off right with a good meal when you get up. Whether you’re rolling out of bed at noon or up at the crack of dawn for class, make sure you start your day with a balanced, healthy meal. 4. Keep healthy snacks around. It’s easy to eat healthy if you keep the Cheetos at bay and stock your dorm room with fruits and other healthy snacks. You’ll be more likely to reach for these than junk food if you keep them nearby or in your backpack. 5.Drink moderately. While college students are known for their partying, you can still have a good time without consuming all the calories that come along with binging on beer, plus you’ll avoid the hangovers and other negative effects. Drink in moderation and you can have a good time without hurting your health. 6. Don’t fight stress by eating. It can be tempting to reach for a bag of chips or some cookies when you’re stressed out about an impending exam. Eating won’t help your stress go away, so avoid filling up on snacks. Try working out or taking a break instead. 7. Drink water. Drinking enough water can help boost your concentration as well as keep you from overeating. Make sure to keep hydrated as you go through your day by bringing water with you. 8. Limit sugary and caffeinated beverages. Beverages may not fill you up, but they sure can help fatten you up and have a detrimental effect on your overall health. You don’t have to completely give up soda and coffee, but you should scale back in order to keep yourself in tip top shape. 9. Try to eat fruits and veggies. Even if fruits and vegetables don’t comprise some of your favorite foods, try to incorporate at least a few of them into your diet each day. 10. Limit junk food. Junk food is fast and easy and many students end up eating a lot of it while they’re on the run to class or to work. While a little fast food now and again won’t really hurt you, make sure it doesn’t become a habit. 11. Make it convenient to eat right. Don’t make it hard for yourself to eat right. Buy healthy foods and stock your fridge and room with them to ensure they’re the first things at hand when you get hungry.12. Don’t skip meals. With so much to do, it’s easy to forgo eating to run off to class or the library. Don’t skip meals. Set up foods you can eat on the run so you’ll have the energy to keep going. 13. Indulge every once in awhile. A little treat now and then is a great way to reward yourself for eating a healthy diet. Give yourself a break and indulge in a food you love but can’t eat all the time. 14. Take vitamins. If you feel like you aren’t getting the nutrition you need from your diet, dont hesitate to supplement it with some multi-vitamins to stay healthy and illness free. 15. Get help for eating disorders. While many groups focus on helping students lose weight, there are those who need help fighting eating disorders as well. If you are worried you have an eating disorder and want help, dont be afraid to reach out to campus resources for help.",
+
+    "brand": {
+      "name": "Health"
+    },
+    "price": 6.99
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "Fitting exercise into a busy schedule isn’t always the easiest thing, but take stock of some of these tips to help you get on track to fitness. 1.Stretch first. Help yourself avoid injuries by stretching each time you exercise. Simple stretches before and after you work out or engage in physical activity can help keep you active and pain free.2. Ride your bike. Instead of taking the bus or driving to class, try biking instead. It will give you a few minutes of exercise between your courses. 3. Play a sport. One way to get yourself motivated to exercise is to make it a game by playing a sport. Join an intramural team or play recreational sports through your school to get active and have fun at the same time. 4. Use safety equipment. No matter what sport you’re playing, make sure to always use the proper safety equipment. It will keep you from getting hurt which will allow you to stay active more often. 5. Head to the gym. Most schools provide students with gym facilities they can take advantage of for free. Head to the gym between classes or when you get up in the morning to squeeze in a workout. 6. Take advantage of fitness courses. Along with gym facilities most students will have access to fitness classes they can take. Since you’re already paying for these through your tuition you may as well take advantage and get a workout that will help keep you in shape and motivate you. 7. Walk to class. While taking public transportation might be quicker, walking will give you a chance to stretch your legs, burn some calories and relax before your next class. Incorporate different kinds of exercise in your routine. When you work out, don’t just stick to one kind of workout. Incorporate strength training, cardio and stretching exercises into your routine to make it well rounded. 8. Make it fun. You’re probably not going to work out if you are bored with your routine or find going to the gym torture. Find a way to make it fun for yourself and you’ll be much more likely to keep it up. 9. Bring a friend. With someone else relying on you showing up, you’ll be much more likely to make the effort to work out. Plus, working out with a friend can be a great way to make working out more fun. 10. Take advantage of open spaces. Most colleges are equipped with large grassy quads or arboretums with trails you can walk on. Take advantage of these spaces to take hikes, play frisbee or just walk around.",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Sleep",
+    "description": "College students aren’t exactly known for their early to bed early to rise attitudes, but getting sleep is an integral part of staying healthy. Check out these tips to help you make sure you’re resting enough. 1. Take a nap. If you have the time during the day, a short nap can do wonders for your energy levels. Just make sure not to nap too close to bedtime or for too long, and a nap will do your body good. 2. Don’t work in bed. Working in bed can make getting to sleep harder. Keep your work space separate from your sleep space to keep insomnia at bay. 3. Get a full night’s rest whenever possible. While the amount of sleep each person needs varies, most people need 7-9 hours to feel fully rested. While this may not be possible every night, try to sleep a full night whenever you get the chance. 4. Stick to a schedule. With different classes and work hours each day, it can be hard to stick to a schedule, but keeping sleep times similar from day to day can greatly improve your chances of getting a good night’s sleep. 5. Understand that lack of sleep can have a big impact. Lack of sleep doesn’t just make you cranky, it can also reduce your ability to concentrate and to excel at class, so try to get as much sleep as you need. 6. Work out bedtimes with roommates. When sharing a room with someone it can be hard to go to bed when you need to and not get woken up when you don’t want to. Try to work with your roomies to make sure you each get the sleep you need. 7. Avoid all nighters. While you may feel like you need to study all night to do well you might be doing yourself a disservice. Not getting enough sleep can impair your ability to do well, regardless of how much you’ve studied, so make sure you get at least a little sleep before your big test. 8. Create a bedtime routine. If you have trouble falling asleep at night you can help yourself by creating a routine that will let your mind and body know that bedtime is approaching and that it should get into sleep mode. After a few weeks of practice this should help you fall asleep when you need to. 9. Avoid caffeine, eating and drinking right before bed. All of these activities can throw off your body’s internal clock, so try to limit meals, alcohol and caffeine consumption to a few hours before bed. 10. Keep your room dark and quiet. While college campuses are hardly either, try to keep your room as dark, quiet and cool as possible. This will help trigger to your body that it’s time for bed and help you get and stay asleep.",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Sexual Health",
+    "description": "College is a place where many students choose to explore their sexuality. Students can do this safely by following these tips. 1. Get tested. Protect your sexual health by getting tested for STDs annually or even more frequently. Most schools offer these tests for free or at a low cost, so all students, even those with small incomes, can afford the tests. 2. Always use protection. Unless you are in a long-term, monogamous relationship with a partner who has been confirmed STD-free, always make sure to use protection to prevent the risk of contracting a disease. 3. Discuss issues with your partner. Sex shouldn’t be painful or scary. If you are nervous or uncomfortable with any element of your sexual relationship, make sure to bring these things up with your partner or health care provider to ensure things are emotionally and physically ok. 4. Get regular exams. Whether you’re male or female, getting your equipment checked out regularly is a must. Women can get breast exams and pap smears that can greatly reduce their risk of cancer. 5. Take advantage of vaccinations. Many schools now offer the HPV vaccination. Female students can take advantage of these to reduce their chance of contracting the HPV virus, the leading cause of almost all cervical cancers. 6. Attend informational classes. Most colleges offer classes that discuss sexual issues, so you can educate yourself and learn to stay healthy and happy. 7. Find someone to talk to. Many students in college have questions about their sexuality and some even feel confused. It helps to find someone you can trust to talk to in order to help you find some direction and figure out who you really are. 8. Don’t do anything you’re not comfortable with. While you may feel pressure from a partner or even those around you to engage in certain sexual activities, never do anything you aren’t completely comfortable with. It’s your body and you are in charge, don’t let anyone else tell you otherwise.",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Illness",
+    "description": "With communal living and thousands of other students sharing classroom space, spreading colds and viruses is easy if you’re not careful. These tips can help keep you from getting sick. 1. Wash your hands. Studies have shown that simple hand washing can help prevent a large number of illnesses. So wash your hands, especially any time you’ll be touching your nose, mouth or eyes or if you’ve been around others who are sick. 2. Avoid sharing beverages. Germs are easily spread through the sharing of drinks, alcoholic or otherwise, so get your own and avoid sharing with friends. 3. Don’t go to class. If you’re sick, don’t force yourself to go to class. It will only make you feel worse and infect other students. Email your professors that you’re ill and stay home and rest. 4. Get to the doctor. If you have symptoms that aren’t showing any signs of clearing up within a few days, you may need to take a trip to the campus clinic or your doctor. Simple illnesses can mutate into much more deadly and dangerous ones if left alone so make sure to seek help if you aren’t feeling any better. 5. Drink lots of fluids. Colds and flu can wreck havoc on your body, often depriving it of much needed fluids. Replenish these by drinking plenty of water or energy drinks when you’re ill. 6. Get a flu shot. With so many germs around, sometimes getting a flu shot is the best thing you can do to avoid getting sick. Many colleges offer these for reduced prices so students can get vaccinated for little out of pocket expense. 7. Wear flip flops in the shower. Dorm bathrooms are generally cleaned daily, but can become dirty quickly with so many students sharing them. Always make sure to wear sandals in the shower to avoid getting viruses and bacteria that can cause warts and athlete’s foot. 8. Avoid ill friends. If your friend is sick, try to avoid spending too much time around them. While bringing soup or medications won’t hurt, touching ill friends and their stuff can increase your chances of getting sick yourself. 9. Don’t touch your eyes, nose or mouth. If your hands aren’t totally clean, try to avoid touching these areas. The membranes in these areas make it easy for bacteria and viruses to enter your body. 10. Try simple over the counter remedies. Most viruses leave you feeling miserable but with no recourse in medications that can make them go away. Try out over the counter remedies to help ease your symptoms. 11. Keep immunizations up to date. While most students will have been immunized as a child, some shots may need to be updated when you enter college. Make sure yours are up to date to keep you from contracting a serious illness.",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 21,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 22,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 23,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 24,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 25,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 26,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 27,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 28,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 29,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 30,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  },
+  {
+    "id": 31,
+    "image": "https://i.ibb.co/q5PNzCg/frag-id-3.png",
+    "name": "Exercise",
+    "description": "",
+    "brand": {
+      "name": "Health"
+    },
+    "price": 5.49
+  }
+]
