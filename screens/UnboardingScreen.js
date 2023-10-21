@@ -16,7 +16,7 @@ export default function UnboardingScreen() {
     });
   }, []);
   const handleDone = () => {
-    navigation.navigate("Home");
+    navigation.navigate("s1");
     // setItem("onboarded", "1");
   };
 

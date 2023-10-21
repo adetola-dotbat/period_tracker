@@ -32,7 +32,7 @@ const Tab = createBottomTabNavigator();
 export default function App() {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName="CalendarShow">
+      <Stack.Navigator initialRouteName="Welcome">
         <Stack.Screen name="Welcome" component={WelcomeScreen} />
         <Stack.Screen name="s1" component={FirstScreen} />
         <Stack.Screen name="s2" component={SecondScreen} />

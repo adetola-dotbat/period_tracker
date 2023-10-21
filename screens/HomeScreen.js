@@ -1,4 +1,4 @@
-import { useNavigation } from "@react-navigation/native";
+import { useNavigation, useRoute } from "@react-navigation/native";
 import React, { useLayoutEffect, useState } from "react";
 import {
   FlatList,
@@ -41,22 +41,27 @@ export default function HomeScreen() {
       setBMTData(filteredData);
     }
   };
+
   const navigation = useNavigation();
+
   useLayoutEffect(() => {
     navigation.setOptions({
       headerShown: false,
     });
   }, []);
+  const route = useRoute();
 
   return (
-    <SafeAreaView style={tw`flex-1 bg-[#FEE1D3]`}>
-      <View style={tw`mx-5 flex-row justify-between items-center mb-10 pt-8`}>
-        <Text style={tw`font-bold text-neutral-700 text-2xl`}>Welcome</Text>
-        <TouchableOpacity>
-          <Image source={assets.Avatar} style={tw`w-12 h-12 rounded-md`} />
-        </TouchableOpacity>
-      </View>
+    <SafeAreaView style={tw`flex-1 bg-[#faf0ea]`}>
       <ScrollView showsVerticalScrollIndicator={false} style={tw`space-y-6`}>
+        <View style={tw`mx-5 flex-row justify-between items-center mb-10 pt-8`}>
+          <Text style={tw`font-bold text-neutral-700 text-2xl`}>
+            Hi {route.params.name}
+          </Text>
+          <TouchableOpacity>
+            <Image source={assets.Avatar} style={tw`w-12 h-12 rounded-md`} />
+          </TouchableOpacity>
+        </View>
         {/* toptips */}
         <View style={tw`mb-4`}>
           <Toptips />

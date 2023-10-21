@@ -22,7 +22,9 @@ export default function Toptips() {
               key={index}
               style={tw`flex items-center space-y-2 px-2`}
             >
-              <View style={tw`p-1 rounded-3xl bg-[#ee9e00]`}>
+              <View
+                style={tw`p-1 rounded-3xl bg-[#ffffff] shadow-lg shadow-indigo-500/40 `}
+              >
                 <Image
                   source={cat.image}
                   style={tw`rounded-3xl w-44 h-44 border-red-500`}

@@ -1,4 +1,4 @@
-import { useNavigation } from "@react-navigation/native";
+import { useNavigation, useRoute } from "@react-navigation/native";
 import React, { useCallback, useLayoutEffect, useState } from "react";
 import {
   Button,
@@ -19,10 +19,12 @@ export default function SecondScreen() {
     });
   }, []);
   const [number, onChangeNumber] = React.useState("");
+  const route = useRoute();
 
   return (
     <SafeAreaView style={tw`p-4 android:pt-2  flex-1 bg-slate-200 relative`}>
       <View style={tw`flex-4 pt-[5rem] flex-column gap-4 justify-center`}>
+        <Text>Name: {route.params.name}</Text>
         <Text style={tw`text-2xl`}>How old are you?</Text>
         <Text>
           We’ll ask you a few questions to help personalize your experience.
